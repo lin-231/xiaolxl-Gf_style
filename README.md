@@ -14,7 +14,22 @@ Welcome to Gf_style - This is a model of Chinese gorgeous ancient style, which c
 
 # How to use
 
+If you want to make the picture better as possible, please try the following configuration
 
+**Sampling steps:30 or 50**
+
+**Sampler:DDIM**
+
+**Turn on Hires fix:Latent and Upscale by 2**
+
+**If the face is deformed, try to repair it**
+
+**words:**
+```
+key word:{best quality}, {{masterpiece}}, {highres}, {an extremely delicate and beautiful}, original, extremely detailed wallpaper,...
+
+Negative words:NSFW, lowres,bad anatomy,bad hands, text, error, missing fingers,extra digit, fewer digits, cropped, worstquality, low quality, normal quality,jpegartifacts,signature, watermark, username,blurry,bad feet
+```
 
 # Examples
 
