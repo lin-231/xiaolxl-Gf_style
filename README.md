@@ -55,3 +55,5 @@ NSFW, lowres,bad anatomy,bad hands, text, error, missing fingers,extra digit, fe
 
 # Examples - 例图
 
+<img src=https://huggingface.co/xiaolxl/Gf_style/resolve/main/examples/f1.png>
+
