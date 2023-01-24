@@ -56,6 +56,12 @@ NSFW, lowres,bad anatomy,bad hands, text, error, missing fingers,extra digit, fe
 
 # Examples - 例图
 
+(You can find the original image in the file list, and put WebUi to view keywords and other information)
+
+--
+
+(可在文件列表中找到原图，并放入WebUi查看关键词等信息)
+
 Town building map -- 镇楼图
 
 <img src=https://huggingface.co/xiaolxl/Gf_style/resolve/main/examples/f1.png>
