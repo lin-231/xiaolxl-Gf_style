@@ -22,7 +22,7 @@ If you want to make the picture better as possible, please try the following con
 
 **Turn on Hires fix:Latent and Upscale by 2**
 
-**If the face is deformed, try to repair it**
+**If the face is deformed, try to Open face repair**
 
 **key word(Start):**
 ```
