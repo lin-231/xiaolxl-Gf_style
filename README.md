@@ -38,11 +38,11 @@ If you want to make the picture better as possible, please try the following con
 
 Sampling steps:**30 or 50**
 
-Sampler:**DDIM** or (DPM++ 2M Karras, DPM++ SDE Karras) - These two have different surprises - 这两个有不一样的惊喜
+Sampler:**DDIM** or **(DPM++ 2M Karras, DPM++ SDE Karras)** - These two have different surprises - 这两个有不一样的惊喜
 
-**Turn on Hires fix:R-ESRGAN 4x+ Anime6B and Upscale by 2**
+Turn on Hires fix:**R-ESRGAN 4x+ Anime6B** and **Upscale by 2**
 
-**If the face is deformed, try to Open face repair**
+If the face is deformed, try to Open **face repair**
 
 **key word(Start):**
 ```
