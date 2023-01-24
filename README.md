@@ -14,17 +14,17 @@ Welcome to Gf_style - This is a model of Chinese gorgeous ancient style, which c
 
 # install
 
-1.**Put the XXX.safetensors model and XXX.yaml into the SD directory**
+1.Put the XXX.safetensors model and XXX.yaml into the SD directory
 
-2.**Remember to select any VAE file, otherwise the drawing will be gray**
+2.Remember to select any VAE file, otherwise the drawing will be gray
 
 # How to use
 
 If you want to make the picture better as possible, please try the following configuration
 
-**Sampling steps:30 or 50**
+Sampling steps:**30 or 50**
 
-**Sampler:DDIM**
+Sampler:**DDIM**
 
 **Turn on Hires fix:Latent and Upscale by 2**
 
