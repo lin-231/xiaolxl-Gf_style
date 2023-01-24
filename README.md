@@ -40,7 +40,7 @@ Sampling steps:**30 or 50**
 
 Sampler:**DDIM**
 
-**Turn on Hires fix:Latent and Upscale by 2**
+**Turn on Hires fix:R-ESRGAN 4x+ Anime6B and Upscale by 2**
 
 **If the face is deformed, try to Open face repair**
 
