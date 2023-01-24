@@ -18,15 +18,15 @@ Welcome to Gf_style - This is a model of Chinese gorgeous ancient style, which c
 
 # install - 安装教程
 
-1.Put the XXX.safetensors model and XXX.yaml into the SD directory
+1. Put the XXX.safetensors model and XXX.yaml into the SD directory
 
-2.Remember to select any VAE file, otherwise the drawing will be gray
+2. Remember to select any VAE file, otherwise the drawing will be gray
 
 --
 
-1.将XXX.saftensors模型和XXX.yaml放入SD目录
+1. 将XXX.saftensors模型和XXX.yaml放入SD目录
 
-2.请记住选择任何VAE文件，否则图形将为灰色
+2. 请记住选择任何VAE文件，否则图形将为灰色
 
 # How to use - 如何使用
 
