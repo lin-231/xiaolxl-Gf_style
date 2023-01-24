@@ -12,6 +12,12 @@ tags:
 
 Welcome to Gf_style - This is a model of Chinese gorgeous ancient style, which can also be said to be an ancient game character model, with the effect of 2.5D texture. This is a series of models that will be updated in the future.
 
+# install
+
+**Put the XXX.safetensors model and XXX.yaml into the SD directory**
+
+**Remember to select any VAE file, otherwise the drawing will be gray**
+
 # How to use
 
 If you want to make the picture better as possible, please try the following configuration
