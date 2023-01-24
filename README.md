@@ -38,7 +38,7 @@ If you want to make the picture better as possible, please try the following con
 
 Sampling steps:**30 or 50**
 
-Sampler:**DDIM**
+Sampler:**DDIM** or (DPM++ 2M Karras, DPM++ SDE Karras) - These two have different surprises - 这两个有不一样的惊喜
 
 **Turn on Hires fix:R-ESRGAN 4x+ Anime6B and Upscale by 2**
 
