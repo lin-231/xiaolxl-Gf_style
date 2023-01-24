@@ -14,9 +14,9 @@ Welcome to Gf_style - This is a model of Chinese gorgeous ancient style, which c
 
 # install
 
-**Put the XXX.safetensors model and XXX.yaml into the SD directory**
+1.**Put the XXX.safetensors model and XXX.yaml into the SD directory**
 
-**Remember to select any VAE file, otherwise the drawing will be gray**
+2.**Remember to select any VAE file, otherwise the drawing will be gray**
 
 # How to use
 
