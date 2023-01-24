@@ -36,20 +36,20 @@ If you want to make the picture better as possible, please try the following con
 
 如果您想使图片尽可能更好，请尝试以下配置
 
-Sampling steps:**30 or 50**
+- Sampling steps:**30 or 50**
 
-Sampler:**DDIM** or **(DPM++ 2M Karras, DPM++ SDE Karras)** - These two have different surprises - 这两个有不一样的惊喜
+- Sampler:**DDIM** or **(DPM++ 2M Karras, DPM++ SDE Karras)** - These two have different surprises - 这两个有不一样的惊喜
 
-Turn on Hires fix:**R-ESRGAN 4x+ Anime6B** and **Upscale by 2**
+- Turn on Hires fix:**R-ESRGAN 4x+ Anime6B** and **Upscale by 2**
 
-If the face is deformed, try to Open **face repair**
+- If the face is deformed, try to Open **face repair**
 
-**key word(Start):**
+- **key word(Start):**
 ```
 {best quality}, {{masterpiece}}, {highres}, {an extremely delicate and beautiful}, original, extremely detailed wallpaper,
 ```
 
-**Negative words:**
+- **Negative words:**
 ```
 NSFW, lowres,bad anatomy,bad hands, text, error, missing fingers,extra digit, fewer digits, cropped, worstquality, low quality, normal quality,jpegartifacts,signature, watermark, username,blurry,bad feet
 ```
