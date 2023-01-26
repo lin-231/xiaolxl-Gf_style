@@ -18,23 +18,13 @@ Welcome to Gf_style - This is a model of Chinese gorgeous ancient style, which c
 
 # install - 安装教程
 
-1. Put the XXX.safetensors model and XXX.yaml into the SD directory
+1. 将XXX.saftensors模型和XXX.yaml放入SD目录 - Put the XXX.safetensors model and XXX.yaml into the SD directory
 
-2. Remember to select any VAE file, otherwise the drawing will be gray
-
---
-
-1. 将XXX.saftensors模型和XXX.yaml放入SD目录
-
-2. 请记住选择任何VAE文件，否则图形将为灰色
+2. 请记住选择任何VAE文件，否则图形将为灰色 - Remember to select any VAE file, otherwise the drawing will be gray
 
 # How to use - 如何使用
 
-If you want to make the picture better as possible, please try the following configuration
-
---
-
-如果您想使图片尽可能更好，请尝试以下配置
+如果您想使图片尽可能更好，请尝试以下配置 - If you want to make the picture better as possible, please try the following configuration
 
 - Sampling steps:**30 or 50**
 
@@ -58,11 +48,7 @@ NSFW, lowres,bad anatomy,bad hands, text, error, missing fingers,extra digit, fe
 
 # Examples - 例图
 
-(You can find the original image in the file list, and put WebUi to view keywords and other information)
-
---
-
-(可在文件列表中找到原图，并放入WebUi查看关键词等信息)
+(可在文件列表中找到原图，并放入WebUi查看关键词等信息) - (You can find the original image in the file list, and put WebUi to view keywords and other information)
 
 Town building map -- 镇楼图
 
