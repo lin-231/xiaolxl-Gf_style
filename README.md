@@ -24,6 +24,8 @@ Welcome to Gf_style - This is a model of Chinese gorgeous ancient style, which c
 
 # How to use - 如何使用
 
+(TIP:人物是竖图炼制，理论上生成竖图效果更好)
+
 如果您想使图片尽可能更好，请尝试以下配置 - If you want to make the picture better as possible, please try the following configuration
 
 - Sampling steps:**30 or 50**
