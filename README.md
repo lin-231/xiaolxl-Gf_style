@@ -12,6 +12,8 @@ tags:
 
 欢迎使用Gf_style模型 - 这是一个中国华丽古风风格模型，也可以说是一个古风游戏角色模型，具有2.5D的质感。这是一个模型系列，会在未来不断更新模型。
 
+2.0版本已发布：[https://huggingface.co/xiaolxl/Gf_style2](https://huggingface.co/xiaolxl/Gf_style2)
+
 --
 
 Welcome to Gf_style - This is a model of Chinese gorgeous ancient style, which can also be said to be an ancient game character model, with the effect of 2.5D texture. This is a series of models that will be updated in the future.
