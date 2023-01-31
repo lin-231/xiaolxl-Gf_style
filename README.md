@@ -14,7 +14,7 @@ tags:
 
 2.0版本已发布：[https://huggingface.co/xiaolxl/Gf_style2](https://huggingface.co/xiaolxl/Gf_style2)
 
-3.0版本已发布：[https://huggingface.co/xiaolxl/Gf_style2](https://huggingface.co/xiaolxl/Gf_style3)
+3.0版本已发布：[https://huggingface.co/xiaolxl/Gf_style3](https://huggingface.co/xiaolxl/Gf_style3)
 
 --
 
