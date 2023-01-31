@@ -14,6 +14,8 @@ tags:
 
 2.0版本已发布：[https://huggingface.co/xiaolxl/Gf_style2](https://huggingface.co/xiaolxl/Gf_style2)
 
+3.0版本已发布：[https://huggingface.co/xiaolxl/Gf_style2](https://huggingface.co/xiaolxl/Gf_style3)
+
 --
 
 Welcome to Gf_style - This is a model of Chinese gorgeous ancient style, which can also be said to be an ancient game character model, with the effect of 2.5D texture. This is a series of models that will be updated in the future.
