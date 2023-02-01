@@ -1,5 +1,5 @@
 ---
-license: cc-by-nc-3.0
+license: cc-by-nc-sa-4.0
 language:
 - en
 library_name: diffusers
