@@ -1,5 +1,5 @@
 ---
-license: creativeml-openrail-m
+license: cc-by-sa-4.0
 language:
 - en
 library_name: diffusers
